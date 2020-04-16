@@ -1,0 +1,24 @@
+- color: d73a4a
+  name: bug
+  description: Er gaat iets fout.
+- color: f4a209
+  name: hulp gevraagd
+  description: Graag een beetje hulp van docent!
+- color: ffffff
+  name: lage prioriteit
+  description: Issue heeft lage prioriteit. Pas later naar kijken.
+- color: d876e3
+  name: onduidelijk
+  description: Hier is meer informatie nodig.
+- color: e4e669
+  name: uitwerken!
+  description: Issue moet worden opgesplitst of beter worden uitgewerkt.
+- color: 76c92e
+  name: verbetering
+  description: Een verbetering of nieuwe mogelijkheid in het spel.
+- color: 0075ca
+  name: verslag
+  description: Verbeteringen of toevoegingen aan het verslag.
+- color: 4575ca
+  name: test
+  description: test.
